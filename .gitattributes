@@ -1,0 +1,7 @@
+# Force all .php files to be recognized as PHP
+*.php linguist-language=PHP
+
+# Make sure CSS is recognized correctly
+*.css linguist-language=CSS
+
+
